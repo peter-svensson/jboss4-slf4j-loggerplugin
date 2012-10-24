@@ -9,7 +9,7 @@ A JBoss4 Logger plugin that use  [slf4j](http://www.slf4j.org/]) ([Logback](http
 
 Usage:
 ------
-Copy the followung jar files to `<JBOSS_HOME>/lib`
+Copy the following jar files to `<JBOSS_HOME>/lib`
 
 * jboss4-slf4j-loggerplugin
 * slf4j-api
