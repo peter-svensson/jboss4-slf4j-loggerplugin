@@ -9,7 +9,7 @@
 	
 	<groupId>com.sparetimecoders</groupId>
 	<artifactId>jboss4-slf4j-loggerplugin</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>SLF4J logger plugin for JBoss4</name>
 	<description>SLF4J logger plugin for JBoss4</description>
 	<url>https://github.com/pliljenberg/jboss4-slf4j-loggerplugin</url>
